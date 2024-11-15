@@ -1,0 +1,9 @@
+[submodule "location-based-attendance-system-nextjs"]
+	path = location-based-attendance-system-nextjs
+	url = https://github.com/S-Pushkar/location-based-attendance-system-nextjs.git
+[submodule "location-based-attendance-system-backend"]
+	path = location-based-attendance-system-backend
+	url = https://github.com/S-Pushkar/location-based-attendance-system-backend.git
+[submodule "location-based-attendance-system-go"]
+	path = location-based-attendance-system-go
+	url = https://github.com/S-Pushkar/location-based-attendance-system-go.git
